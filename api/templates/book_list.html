@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link type = "text/css" href="static/css/style.css" rel="stylesheet">
+    <title>Todo App</title>
+</head>
+<body>
+  {%for i in range(0, 4)%}
+  <div class="book-card">
+    <div class="card-body">
+     <h2 class="book-title"><a href="{{url_for('single_book', book_id=books[i]['id'])}}">{{books[i].title}}</a></h2>
+     <p class="book-author">Book author:{{books[i].author['name']}}</p>
+     <p class="book-genre">Book genre: {{books[i].genre}}</p>
+     <p class="book-height">Book height: {{books[i].height}}</p>
+     <p class="book-publisher">Book publisher: {{books[i].publisher}}</p>
+    </div> 
+    </div>
+   {%endfor%}
+   
+
+</body>
+</html>

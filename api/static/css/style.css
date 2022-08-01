@@ -1,0 +1,36 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Barlow Condensed' ,sans-serif;
+}
+.book-card
+{
+    background-color: #fff;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 5px 0px #888;
+    margin: 0px 5px;
+    min-height: 350px;
+    cursor: pointer;
+}
+
+.card-body
+{
+    padding: 20px;
+}
+.book-title
+{
+    font-size: 20px;
+}
+.book-intro
+{
+    font-size: 16px;
+}

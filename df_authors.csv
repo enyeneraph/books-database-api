@@ -1,0 +1,157 @@
+,Author,location,age,gender
+0,"Goswami, Jaideva",Berlin,25.0,F
+1,"Foreman, John",New York,26.0,M
+2,"Hawking, Stephen",Canada,43.0,F
+3,"Hawking, Stephen",Canada,43.0,F
+4,"Dubner, Stephen",Berlin,35.0,F
+5,"Dubner, Stephen",Berlin,35.0,F
+6,"Said, Edward",Afghanistan,38.0,F
+7,"Vapnik, Vladimir",New York,40.0,M
+8,"Vapnik, Vladimir",New York,40.0,M
+9,"Menon, V P",Afghanistan,34.0,M
+10,"Mlodinow, Leonard",Puerto Rico,40.0,F
+11,"Shih, Frank",London,32.0,M
+12,"Konnikova, Maria",Berlin,39.0,M
+13,Sebastian Gutierrez,Berlin,24.0,M
+14,"Vonnegut, Kurt",Berlin,29.0,M
+15,"Villani, Cedric",Puerto Rico,28.0,M
+16,"Sussman, Gerald",Canada,37.0,F
+17,"Eraly, Abraham",Afghanistan,25.0,M
+18,"Kafka, Frank",Berlin,44.0,F
+19,"Pratt, John",London,43.0,F
+20,"Nisbet, Robert",New York,30.0,M
+21,"Wells, H. G.",Canada,22.0,F
+22,"Heisenberg, Werner",London,32.0,M
+23,"Oram, Andy",Berlin,40.0,M
+24,"Tao, Terence",Canada,24.0,M
+25,"Tao, Terence",Canada,24.0,M
+26,"Conway, Drew",Berlin,36.0,F
+27,"Silver, Nate",Puerto Rico,22.0,M
+28,"McKinney, Wes",Puerto Rico,21.0,F
+29,"Cormen, Thomas",Berlin,25.0,F
+30,"Deb, Siddhartha",London,21.0,F
+31,"Camus, Albert",London,32.0,M
+32,"Doyle, Arthur Conan",Canada,36.0,M
+33,"Smith, Adam",Canada,44.0,F
+34,"Follett, Ken",London,34.0,F
+35,"Hitler, Adolf",London,30.0,M
+36,"Capra, Fritjof",New York,40.0,M
+37,"Capra, Fritjof",New York,40.0,M
+38,"Capra, Fritjof",New York,40.0,M
+39,"Feynman, Richard",Canada,36.0,F
+40,"Hemingway, Ernest",Canada,29.0,M
+41,"Forsyth, Frederick",Puerto Rico,28.0,F
+42,"Forsyth, Frederick",Puerto Rico,28.0,F
+43,"Archer, Jeffery",Berlin,26.0,M
+44,"Pausch, Randy",Berlin,42.0,M
+45,"Rand, Ayn",London,29.0,F
+46,"Rand, Ayn",London,29.0,F
+47,"Crichton, Michael",Canada,29.0,F
+48,"Steinbeck, John",Berlin,39.0,F
+49,"Steinbeck, John",Berlin,39.0,F
+50,"Poe, Edgar Allen",London,21.0,M
+51,"Durant, Will",Berlin,25.0,M
+52,"Deshpande, P L",Berlin,32.0,M
+53,"Deshpande, P L",Berlin,32.0,M
+54,"Grisham, John",New York,31.0,M
+55,"Naipaul, V. S.",Puerto Rico,38.0,M
+56,"Heller, Joseph",Canada,27.0,M
+57,BBC,Berlin,21.0,M
+58,"Dylan, Bob",Afghanistan,21.0,M
+59,"Gupta, Madan",Afghanistan,27.0,F
+60,"Stonier, Alfred",Afghanistan,34.0,F
+61,"Greene, W. H.",Berlin,42.0,F
+62,"Bradsky, Gary",London,30.0,M
+63,"Tanenbaum, Andrew",London,34.0,M
+64,"Forsyth, David",Berlin,22.0,M
+65,"Taub, Schilling",Canada,43.0,M
+66,"Kanetkar, Yashwant",New York,38.0,F
+67,"Kanetkar, Yashwant",New York,38.0,F
+68,"Stroud, Jonathan",Berlin,28.0,M
+69,"Dostoevsky, Fyodor",New York,38.0,M
+70,"Dostoevsky, Fyodor",New York,38.0,M
+71,"Brown, Dan",Berlin,43.0,M
+72,"Brown, Dan",Berlin,43.0,M
+73,"Sen, Amartya",Afghanistan,20.0,F
+74,"Sen, Amartya",Afghanistan,20.0,F
+75,"Sen, Amartya",Afghanistan,20.0,F
+76,"Ghosh, Amitav",Afghanistan,31.0,M
+77,"Hansberry, Lorraine",London,44.0,M
+78,"Woodward, Bob",New York,28.0,M
+79,"Woodward, Bob",New York,28.0,M
+80,"Nayar, Kuldip",Afghanistan,27.0,M
+81,"Deshpande, Sunita",Canada,43.0,M
+82,"Dalrymple, William",Afghanistan,36.0,M
+83,"Dalrymple, William",Afghanistan,36.0,M
+84,"Dalrymple, William",Afghanistan,36.0,M
+85,Various,New York,43.0,F
+86,"Garg, Sanjay",Puerto Rico,37.0,F
+87,,London,21.0,F
+88,,London,21.0,F
+89,,London,21.0,F
+90,"Kale, V P",London,25.0,F
+91,"Tharoor, Shashi",New York,26.0,F
+92,"Lapierre, Dominique",Puerto Rico,37.0,M
+93,"Russell, Bertrand",New York,26.0,M
+94,"Russell, Bertrand",New York,26.0,M
+95,"Harris, Sam",London,22.0,M
+96,"Gardner, Earle Stanley",Afghanistan,31.0,M
+97,"Drucker, Peter",Puerto Rico,36.0,F
+98,"Drucker, Peter",Puerto Rico,36.0,F
+99,"Bodanis, David",Berlin,32.0,M
+100,"Hugo, Victor",Afghanistan,23.0,F
+101,"Gordon, Richard",Berlin,23.0,M
+102,"Gordon, Richard",Berlin,23.0,M
+103,"Orwell, George",Puerto Rico,30.0,F
+104,"Orwell, George",Puerto Rico,30.0,F
+105,"Iacoca, Lee",Berlin,44.0,M
+106,"Maugham, William S",Puerto Rico,24.0,F
+107,"Maugham, William S",Puerto Rico,24.0,F
+108,"Pirsig, Robert",Afghanistan,30.0,M
+109,"Fisk, Robert",Berlin,38.0,M
+110,"Fisk, Robert",Berlin,38.0,M
+111,"Aczel, Amir",London,35.0,M
+112,"Huntington, Samuel",Berlin,34.0,M
+113,"Bach, Richard",Berlin,34.0,M
+114,Braithwaite,Canada,36.0,M
+115,"Naipaul, V S",New York,30.0,F
+116,"Nehru, Jawaharlal",London,41.0,M
+117,"Durrell, Gerald",New York,44.0,F
+118,"Wells, H G",Afghanistan,44.0,M
+119,"Singh, Simon",New York,43.0,F
+120,"Duda, Hart",Puerto Rico,35.0,M
+121,"Friedman, Thomas",Canada,21.0,F
+122,"Devlin, Keith",Berlin,40.0,M
+123,"Gleick, James",Afghanistan,42.0,M
+124,"Thomas, Joy",Berlin,36.0,M
+125,"Rashid, Muhammad",Afghanistan,33.0,F
+126,"Mohan, Ned",Berlin,32.0,M
+127,"Haykin, Simon",Berlin,35.0,F
+128,"Rutherford, Alex",New York,21.0,M
+129,"Baz-Zohar, Michael",New York,29.0,M
+130,"Corbett, Jim",Afghanistan,41.0,F
+131,"Verne, Jules",New York,40.0,F
+132,Deshpande P L,Berlin,24.0,F
+133,"Raymond, Eric",London,20.0,F
+134,"Franco, Sergio",London,37.0,M
+135,"Downey, Allen",Puerto Rico,20.0,F
+136,"West, Morris",London,43.0,F
+137,"Janert, Phillip",Canada,26.0,F
+138,"Sagan, Carl",London,38.0,M
+139,"Bell, E T",Puerto Rico,39.0,M
+140,"Dawkins, Richard",Puerto Rico,44.0,F
+141,"Ranjan, Sudhanshu",London,44.0,M
+142,Kautiyla,Afghanistan,21.0,M
+143,Palkhivala,Canada,44.0,F
+144,Sorabjee,Puerto Rico,39.0,F
+145,"Zaidi, Hussain",New York,20.0,F
+146,"Ackroyd, Peter",Puerto Rico,24.0,M
+147,Nariman,Puerto Rico,33.0,M
+148,"Sassoon, Jean",London,21.0,F
+149,"Dickinson, Peter",New York,37.0,M
+150,Machiavelli,Canada,22.0,F
+151,"Huxley, Aldous",Canada,41.0,M
+152,"Rowling, J K",New York,38.0,M
+153,"Larsson, Steig",New York,22.0,M
+154,"Eddins, Steve",New York,33.0,F
+155,"Dickens, Charles",Puerto Rico,32.0,F

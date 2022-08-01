@@ -1,0 +1,157 @@
+Title,Author,Genre,Height,Publisher,location,age,gender
+Fundamentals of Wavelets,"Goswami, Jaideva",signal_processing,228,Wiley,Berlin,40.0,M
+Data Smart,"Foreman, John",data_science,235,Wiley,Afghanistan,28.0,F
+God Created the Integers,"Hawking, Stephen",mathematics,197,Penguin,London,40.0,F
+"Theory of Everything, The","Hawking, Stephen",science,217,Jaico,London,40.0,F
+Superfreakonomics,"Dubner, Stephen",economics,179,HarperCollins,New York,37.0,M
+Freakonomics,"Dubner, Stephen",economics,197,Penguin,New York,37.0,M
+Orientalism,"Said, Edward",history,197,Penguin,New York,28.0,F
+"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",data_science,230,Springer,Afghanistan,43.0,F
+Statistical Learning Theory,"Vapnik, Vladimir",data_science,228,,Afghanistan,43.0,F
+Integration of the Indian States,"Menon, V P",history,217,Orient Blackswan,London,32.0,F
+"Drunkard's Walk, The","Mlodinow, Leonard",science,197,Penguin,Canada,43.0,M
+Image Processing & Mathematical Morphology,"Shih, Frank",signal_processing,241,CRC,Afghanistan,44.0,M
+How to Think Like Sherlock Holmes,"Konnikova, Maria",psychology,240,Penguin,Puerto Rico,24.0,M
+Data Scientists at Work,Sebastian Gutierrez,data_science,230,Apress,London,43.0,M
+Slaughterhouse Five,"Vonnegut, Kurt",fiction,198,Random House,Berlin,25.0,M
+Birth of a Theorem,"Villani, Cedric",mathematics,234,Bodley Head,Afghanistan,24.0,F
+Structure & Interpretation of Computer Programs,"Sussman, Gerald",computer_science,240,MIT Press,Afghanistan,26.0,F
+"Age of Wrath, The","Eraly, Abraham",history,238,Penguin,Canada,26.0,F
+"Trial, The","Kafka, Frank",fiction,198,Random House,Puerto Rico,23.0,F
+Statistical Decision Theory',"Pratt, John",data_science,236,MIT Press,Puerto Rico,34.0,F
+Data Mining Handbook,"Nisbet, Robert",data_science,242,Apress,New York,33.0,M
+"New Machiavelli, The","Wells, H. G.",fiction,180,Penguin,London,25.0,M
+Physics & Philosophy,"Heisenberg, Werner",science,197,Penguin,Canada,43.0,F
+Making Software,"Oram, Andy",computer_science,232,O'Reilly,Afghanistan,20.0,F
+"Analysis, Vol I","Tao, Terence",mathematics,248,HBA,New York,33.0,F
+Structure and Randomness,"Tao, Terence",mathematics,252,,New York,33.0,F
+Machine Learning for Hackers,"Conway, Drew",data_science,233,O'Reilly,Afghanistan,29.0,F
+"Signal and the Noise, The","Silver, Nate",data_science,233,Penguin,Puerto Rico,40.0,F
+Python for Data Analysis,"McKinney, Wes",data_science,233,O'Reilly,Puerto Rico,23.0,F
+Introduction to Algorithms,"Cormen, Thomas",computer_science,234,MIT Press,Canada,35.0,M
+"Beautiful and the Damned, The","Deb, Siddhartha",nonfiction,198,Penguin,Afghanistan,29.0,M
+"Outsider, The","Camus, Albert",fiction,198,Penguin,London,38.0,M
+"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction,176,Random House,Canada,20.0,F
+"Wealth of Nations, The","Smith, Adam",economics,175,Random House,New York,30.0,M
+"Pillars of the Earth, The","Follett, Ken",fiction,176,Random House,Puerto Rico,23.0,F
+Mein Kampf,"Hitler, Adolf",nonfiction,212,Rupa,Puerto Rico,33.0,F
+"Tao of Physics, The","Capra, Fritjof",science,179,Penguin,Canada,41.0,F
+"Hidden Connections, The","Capra, Fritjof",science,197,HarperCollins,Canada,41.0,F
+Uncommon Wisdom,"Capra, Fritjof",nonfiction,197,Fontana,Canada,41.0,F
+Surely You're Joking Mr Feynman,"Feynman, Richard",science,198,Random House,Puerto Rico,26.0,F
+"Farewell to Arms, A","Hemingway, Ernest",fiction,179,Rupa,Puerto Rico,23.0,F
+"Veteran, The","Forsyth, Frederick",fiction,177,Transworld,New York,24.0,F
+"Phantom of Manhattan, The","Forsyth, Frederick",fiction,180,,New York,24.0,F
+False Impressions,"Archer, Jeffery",fiction,177,Pan,New York,20.0,F
+"Last Lecture, The","Pausch, Randy",nonfiction,197,Hyperion,London,30.0,F
+Return of the Primitive,"Rand, Ayn",philosophy,202,Penguin,Puerto Rico,21.0,F
+Ayn Rand Answers,"Rand, Ayn",philosophy,203,,Puerto Rico,21.0,F
+Jurassic Park,"Crichton, Michael",fiction,174,Random House,New York,28.0,M
+"Russian Journal, A","Steinbeck, John",nonfiction,196,Penguin,Berlin,23.0,M
+"Life in Letters, A","Steinbeck, John",nonfiction,196,,Berlin,23.0,M
+Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction,172,HarperCollins,Berlin,24.0,F
+"Story of Philosophy, The","Durant, Will",philosophy,170,Pocket,Afghanistan,21.0,F
+Asami Asami,"Deshpande, P L",fiction,205,Mauj,Puerto Rico,43.0,M
+Apulki,"Deshpande, P L",nonfiction,211,,Puerto Rico,43.0,M
+"Brethren, The","Grisham, John",fiction,174,Random House,London,38.0,M
+In a Free State,"Naipaul, V. S.",fiction,196,Rupa,London,39.0,M
+Catch 22,"Heller, Joseph",fiction,178,Random House,New York,33.0,M
+"Complete Mastermind, The",BBC,nonfiction,178,BBC,Canada,25.0,M
+Dylan on Dylan,"Dylan, Bob",nonfiction,197,Random House,Afghanistan,23.0,M
+Soft Computing & Intelligent Systems,"Gupta, Madan",data_science,242,Elsevier,Puerto Rico,21.0,F
+Textbook of Economic Theory,"Stonier, Alfred",economics,242,Pearson,Puerto Rico,38.0,M
+Econometric Analysis,"Greene, W. H.",economics,242,Pearson,Afghanistan,38.0,M
+Learning OpenCV,"Bradsky, Gary",data_science,232,O'Reilly,Berlin,33.0,M
+Data Structures Using C & C++,"Tanenbaum, Andrew",computer_science,235,Prentice Hall,Canada,24.0,F
+"Computer Vision, A Modern Approach","Forsyth, David",data_science,255,Pearson,Berlin,40.0,M
+Principles of Communication Systems,"Taub, Schilling",computer_science,240,TMH,Canada,42.0,M
+Let Us C,"Kanetkar, Yashwant",computer_science,213,Prentice Hall,Afghanistan,27.0,F
+Pointers in C,"Kanetkar, Yashwant",computer_science,213,,Afghanistan,27.0,F
+"Amulet of Samarkand, The","Stroud, Jonathan",fiction,179,Random House,Berlin,33.0,M
+Crime and Punishment,"Dostoevsky, Fyodor",fiction,180,Penguin,New York,29.0,F
+"Idiot, The","Dostoevsky, Fyodor",fiction,197,,New York,29.0,F
+Angels & Demons,"Brown, Dan",fiction,178,Random House,London,43.0,F
+Angels & Demons,"Brown, Dan",fiction,170,,London,43.0,F
+"Argumentative Indian, The","Sen, Amartya",nonfiction,209,Picador,Berlin,28.0,F
+"Idea of Justice, The","Sen, Amartya",nonfiction,212,Penguin,Berlin,28.0,F
+Rationality & Freedom,"Sen, Amartya",economics,213,Springer,Berlin,28.0,F
+Sea of Poppies,"Ghosh, Amitav",fiction,197,Penguin,Afghanistan,36.0,M
+"Raisin in the Sun, A","Hansberry, Lorraine",fiction,175,Penguin,New York,27.0,M
+All the President's Men,"Woodward, Bob",history,177,Random House,Afghanistan,37.0,F
+Veil: Secret Wars of the CIA,"Woodward, Bob",history,171,,Afghanistan,37.0,F
+Scoop!,"Nayar, Kuldip",history,216,HarperCollins,Afghanistan,23.0,F
+Ahe Manohar Tari,"Deshpande, Sunita",nonfiction,213,Mauj,London,27.0,F
+"Last Mughal, The","Dalrymple, William",history,199,Penguin,Canada,31.0,F
+Beyond the Three Seas,"Dalrymple, William",history,197,Random House,Canada,31.0,F
+City of Djinns,"Dalrymple, William",history,198,,Canada,31.0,F
+"Social Choice & Welfare, Vol 39 No. 1",Various,economics,235,Springer,New York,21.0,M
+Maqta-e-Ghalib,"Garg, Sanjay",fiction,221,Mauj,Puerto Rico,22.0,M
+Beyond Degrees,,nonfiction,222,HarperCollins,New York,36.0,M
+"World's Greatest Trials, The",,history,210,,New York,36.0,M
+"World's Greatest Short Stories, The",,fiction,217,Jaico,New York,36.0,M
+Manasa,"Kale, V P",nonfiction,213,Mauj,Berlin,41.0,F
+India from Midnight to Milennium,"Tharoor, Shashi",history,198,Penguin,Afghanistan,28.0,F
+O Jerusalem!,"Lapierre, Dominique",history,217,vikas,New York,26.0,F
+On Education,"Russell, Bertrand",philosophy,203,Routledge,Puerto Rico,36.0,F
+Unpopular Essays,"Russell, Bertrand",philosophy,198,,Puerto Rico,36.0,F
+Free Will,"Harris, Sam",philosophy,203,FreePress,Berlin,33.0,M
+"Case of the Lame Canary, The","Gardner, Earle Stanley",fiction,179,,London,22.0,M
+New Markets & Other Essays,"Drucker, Peter",economics,176,Penguin,New York,36.0,M
+"Age of Discontuinity, The","Drucker, Peter",economics,178,Random House,New York,36.0,M
+Electric Universe,"Bodanis, David",science,201,Penguin,Afghanistan,33.0,F
+"Hunchback of Notre Dame, The","Hugo, Victor",fiction,175,Random House,New York,39.0,M
+Doctor in the Nude,"Gordon, Richard",fiction,179,Penguin,London,36.0,M
+Doctor on the Brain,"Gordon, Richard",fiction,204,,London,36.0,M
+Down and Out in Paris & London,"Orwell, George",nonfiction,179,Penguin,Afghanistan,41.0,F
+Animal Farm,"Orwell, George",fiction,180,,Afghanistan,41.0,F
+Talking Straight,"Iacoca, Lee",nonfiction,175,,Berlin,28.0,F
+"Maugham's Collected Short Stories, Vol 3","Maugham, William S",fiction,171,Vintage,New York,20.0,F
+"Moon and Sixpence, The","Maugham, William S",fiction,180,,New York,20.0,F
+Zen & The Art of Motorcycle Maintenance,"Pirsig, Robert",philosophy,172,Vintage,Canada,42.0,F
+"Great War for Civilization, The","Fisk, Robert",history,197,HarperCollins,London,22.0,M
+"Age of the Warrior, The","Fisk, Robert",history,197,,London,22.0,M
+"Artist and the Mathematician, The","Aczel, Amir",science,186,HighStakes,New York,42.0,M
+Clash of Civilizations and Remaking of the World Order,"Huntington, Samuel",history,228,Simon&Schuster,London,36.0,F
+One,"Bach, Richard",nonfiction,172,Dell,Puerto Rico,37.0,F
+To Sir With Love,Braithwaite,fiction,197,Penguin,Berlin,33.0,F
+Half A Life,"Naipaul, V S",fiction,196,,Canada,44.0,F
+"Discovery of India, The","Nehru, Jawaharlal",history,230,,Puerto Rico,21.0,M
+Rosy is My Relative,"Durrell, Gerald",fiction,176,,New York,42.0,M
+"Short History of the World, A","Wells, H G",history,197,,New York,31.0,M
+Simpsons & Their Mathematical Secrets,"Singh, Simon",science,233,,Afghanistan,28.0,M
+Pattern Classification,"Duda, Hart",data_science,241,,Berlin,30.0,M
+From Beirut to Jerusalem,"Friedman, Thomas",history,202,,New York,21.0,M
+"Numbers Behind Numb3rs, The","Devlin, Keith",science,202,,Puerto Rico,31.0,M
+"Information, The","Gleick, James",science,233,,New York,37.0,M
+Elements of Information Theory,"Thomas, Joy",data_science,229,,Afghanistan,37.0,F
+Power Electronics - Rashid,"Rashid, Muhammad",computer_science,235,,Afghanistan,21.0,M
+Power Electronics - Mohan,"Mohan, Ned",computer_science,237,,London,23.0,M
+Neural Networks,"Haykin, Simon",data_science,240,,Berlin,34.0,M
+Empire of the Mughal - The Tainted Throne,"Rutherford, Alex",history,180,,Puerto Rico,26.0,F
+Mossad,"Baz-Zohar, Michael",history,236,,New York,30.0,F
+Jim Corbett Omnibus,"Corbett, Jim",nonfiction,223,,Canada,31.0,F
+20000 Leagues Under the Sea,"Verne, Jules",fiction,190,,Canada,36.0,F
+Batatyachi Chal,Deshpande P L,fiction,200,,Puerto Rico,25.0,F
+"Cathedral and the Bazaar, The","Raymond, Eric",computer_science,217,,New York,41.0,M
+Design with OpAmps,"Franco, Sergio",computer_science,240,,Afghanistan,21.0,M
+Think Complexity,"Downey, Allen",data_science,230,,New York,20.0,F
+"Devil's Advocate, The","West, Morris",fiction,178,,Canada,24.0,F
+Data Analysis with Open Source Tools,"Janert, Phillip",data_science,230,,Berlin,33.0,M
+Broca's Brain,"Sagan, Carl",science,174,,New York,26.0,F
+Men of Mathematics,"Bell, E T",mathematics,217,,Berlin,44.0,M
+Oxford book of Modern Science Writing,"Dawkins, Richard",science,240,,Berlin,21.0,F
+"Justice, Judiciary and Democracy","Ranjan, Sudhanshu",philosophy,224,,New York,43.0,F
+"Arthashastra, The",Kautiyla,philosophy,214,,Puerto Rico,31.0,F
+We the People,Palkhivala,philosophy,216,,Afghanistan,43.0,F
+"Courtroom Genius, The",Sorabjee,nonfiction,217,,London,44.0,M
+Dongri to Dubai,"Zaidi, Hussain",nonfiction,216,,New York,23.0,F
+"History of England, Foundation","Ackroyd, Peter",history,197,,London,29.0,F
+India's Legal System,Nariman,nonfiction,177,,Puerto Rico,35.0,M
+More Tears to Cry,"Sassoon, Jean",fiction,235,,Berlin,27.0,M
+"Ropemaker, The","Dickinson, Peter",fiction,196,,London,29.0,M
+"Prince, The",Machiavelli,philosophy,173,,Puerto Rico,34.0,M
+Eyeless in Gaza,"Huxley, Aldous",fiction,180,,New York,37.0,F
+Tales of Beedle the Bard,"Rowling, J K",fiction,184,,Puerto Rico,44.0,M
+Girl with the Dragon Tattoo,"Larsson, Steig",fiction,179,,Afghanistan,41.0,F
+Image Processing with MATLAB,"Eddins, Steve",signal_processing,241,,Canada,21.0,M
+"Christmas Carol, A","Dickens, Charles",fiction,196,,Canada,23.0,M
